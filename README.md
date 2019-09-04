@@ -1,18 +1,15 @@
-# test
+# Inicios con Vue
+> Proyecto Vue para iniciarse
 
-> A Vue.js project
-
-## Build Setup
+## Inicio proyecto
 
 ``` bash
-# install dependencies
+# 1. Instalar dependencias
 npm install
 
-# serve with hot reload at localhost:8080
+# 2. Servidor con recarga en caliente en localhost:8080
 npm run dev
 
-# build for production with minification
+# 3. Construir proyecto para produccion con minificación
 npm run build
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
